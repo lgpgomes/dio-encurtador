@@ -1,6 +1,6 @@
-# url-shortener-dio
+# Encurtador de URL
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+Este projeto foi criado para estudo através da plataforma Digital Innovation One;
 
 ## Rodando o projeto
 
@@ -8,12 +8,9 @@ Projeto criado junto da DIO para construção de um Encurtador de URL.
 - `npm run build`
 - `npm run dev`
 
-Algumas informações sobre os vídeos:
+Abra [http://localhost:3000](http://localhost:3000)
 
-- Editor de Texto usado: VSCode
-  - Color Theme do editor: Material UI e Bluloco Dark
-- Programa para verificar as requests: Insomnia
+## Saiba mais
 
-Informações pessoais:
-
-- Meu linkedin: https://www.linkedin.com/in/alexiapereira/
+Saiba mais sobre React em [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Aprenda React em [React documentation](https://reactjs.org/).
